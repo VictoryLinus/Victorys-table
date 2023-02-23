@@ -1,0 +1,44 @@
+body {
+    min-height: 100vh;
+    background-color: limegreen;
+}
+
+
+table {
+width: 70%;
+border: 1px solid black;
+border-collapse: collapse;
+margin-left:auto;
+margin-right:auto; 
+
+}
+
+
+caption {
+caption-side: top; /* sets where the caption is placed */
+font-size: 16px; /* sets size of the text*/
+font-weight: bold; /* stets thickness of the text*/
+}
+
+
+
+
+tr {
+    background-color: grey;
+}
+
+
+
+th {
+    border: 1px  solid black ; /* sets border line */
+    padding: 8px;
+    font-weight: bold;
+}
+
+
+
+td  {
+    border: 1px solid black;
+    padding: 8px;
+}
+
